@@ -35,12 +35,12 @@ later
 
 ### Fuzzy finder
 
-   CTRL-ALT-F search Files
-   CTRL-ALT-L search Gitlog
-   CTRL-ALT-S search Git status
-   CTRL-R search history
-   CTRL-ALT-P search process
-   CTRL-V search variables
+  CTRL-ALT-F search Files
+  CTRL-ALT-L search Gitlog
+  CTRL-ALT-S search Git status
+  CTRL-R search history
+  CTRL-ALT-P search process
+  CTRL-V search variables
 
 ## Nerd Fonts
 
