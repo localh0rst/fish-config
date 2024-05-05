@@ -1,7 +1,3 @@
-[]: # Title: Fish Shell Configuration
-[]: # Description: My fish shell configuration
-[]: # Tags: fish, shell, configuration
-
 # Requirements
 
 - [fish](https://fishshell.com/)
