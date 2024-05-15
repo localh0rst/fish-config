@@ -21,7 +21,8 @@ fisher install PatrickF1/fzf.fish          # Fuzzy Finder
 fisher install jorgebucaran/fish-ssh-agent # SSH Agent
 fisher install jethrokuan/z                # for directory tracking?
 fisher install dideler/fish-cd-git         # cd to git root
-fisher install jdxcode/gh                  # GitHub CLI
+#fisher install jdxcode/gh                  # GitHub CLI
+#fisher install z11i/github-copilot-cli.fish # GitHub Copilot CLI - Not working any more
 curl -sS https://starship.rs/install.sh | sh
 ```
 
