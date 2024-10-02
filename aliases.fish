@@ -1,1 +1,1 @@
-alias vi "$HOME/.local/bin/nvim"
+alias vi "$HOME/.local/bin/nvim.appimage"
